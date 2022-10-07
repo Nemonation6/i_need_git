@@ -1,3 +1,3 @@
 def test1():
-    assert true
+    assert True
 
